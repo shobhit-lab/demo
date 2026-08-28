@@ -1,9 +1,9 @@
 # demo
 demo
 This is a demo
-Also, demo qaz
-<<<<<<< Updated upstream
-=======
-cdsjnfvc
-dsbjckfdskcvbsd
->>>>>>> Stashed changes
+Also, demo qazdsajklcbhn djklascj
+
+scmldksncvklsdj
+
+sdcfjksdbcfvjkdbnsjvkl
+sjcjksdcvhncds.;'cds;'
