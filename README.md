@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # demo
 demo
 This is a demo
@@ -6,4 +7,7 @@ Also, demo qaz
 =======
 cdsjnfvc
 dsbjckfdskcvbsd
+>>>>>>> Stashed changes
+=======
+nsmsanxdbjkacjcfsdhnksxzcvnjkzsxcn
 >>>>>>> Stashed changes
