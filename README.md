@@ -1,4 +1,4 @@
-# demo
+demo
 demo
 This is a demo
 <<<<<<< Updated upstream
